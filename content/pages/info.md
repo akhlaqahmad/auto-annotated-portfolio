@@ -14,13 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ## Hey, I’m a developer. Ex-this, ex-that, still waiting for my big break—very Joey Tribbiani of me. When I’m not coding, I’m eating cereal and asking, how you doin’? Catch me on TikTok [@akhlaq.dmg](https://www.tiktok.com/@akhlaq.dmg).
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/akhlaq_picture.png
       altText: Hero image
     styles:
       self:
@@ -124,7 +121,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/akhlaqahmad'
         styles:
           self:
             textAlign: left
@@ -132,7 +129,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/akhlaq_dmg/'
         styles:
           self:
             textAlign: left
@@ -140,15 +137,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://www.linkedin.com/in/akhlaq-dmg/'
         styles:
           self:
             textAlign: left
@@ -156,7 +145,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discordapp.com/users/akhlaq.ahmad'
         styles:
           self:
             textAlign: left
@@ -164,7 +153,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/akhlaq.dmg'
         styles:
           self:
             textAlign: left
@@ -239,7 +228,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [aakhlaqahmad18@gmail.com](mailto:aakhlaqahmad18@gmail.com)
   - type: DividerSection
     styles:
       self:
